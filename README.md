@@ -3,6 +3,7 @@
 <a href="https://app.daily.dev/aliduru"><img src="https://api.daily.dev/devcards/26729759507649968ed62b053643b948.png?r=0r0" width="400" alt="Ali Duru's Dev Card"/></a>
 
 🔭 I’m currently working on a multi-funtional Todo App
+
 🌱 I’m currently learning Next JS 13
 
 <!--
